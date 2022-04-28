@@ -1,4 +1,5 @@
 Report:
+
 ReversiAi class:
 The ReversiAi class contains only the minimax() function.
 
